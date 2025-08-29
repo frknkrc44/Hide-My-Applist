@@ -84,3 +84,4 @@ jobs:
         with:
           name: mappings
           path: "app/build/outputs/mapping/release"
+
